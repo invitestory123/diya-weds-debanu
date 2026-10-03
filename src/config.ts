@@ -203,12 +203,9 @@ const config: InvitationConfig = {
     url: "https://maps.app.goo.gl/WpkDsBzRRQDXwznP8?g_st=iw",
   },
   gallery: [
-    { src: "/images/gallery-1.png", alt: "Golden hour walk through the garden" },
-    { src: "/images/gallery-2.png", alt: "Dancing under the soft lights" },
-    { src: "/images/gallery-3.png", alt: "The promise of forever" },
-    { src: "/images/gallery-4.png", alt: "Quiet moments together" },
-    { src: "/images/gallery-5.png", alt: "Joyful celebrations" },
-    { src: "/images/gallery-6.png", alt: "Dreams of tomorrow" },
+    { src: "/images/gallery-1.png", alt: "A gentle embrace & whispered promises · Diya & Debanu" },
+    { src: "/images/gallery-2.png", alt: "Forever by your side · In love & elegance" },
+    { src: "/images/gallery-3.png", alt: "Quiet moments & blooming joy by the water" },
   ],
   families: {
     bride: {

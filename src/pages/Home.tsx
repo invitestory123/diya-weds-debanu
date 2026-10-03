@@ -25,8 +25,8 @@ export default function Home() {
       {config.sections?.countdown !== false && <Countdown />}
       {config.sections?.events !== false && <Details />}
       {config.sections?.venue !== false && <Venue />}
-      {config.sections?.gallery !== false && <Gallery />}
       {config.sections?.family !== false && <Family />}
+      {config.sections?.gallery !== false && <Gallery />}
       <CalendarSection />
       <FooterSection />
     </main>

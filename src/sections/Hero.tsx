@@ -60,7 +60,7 @@ function Character({
           <img
             src={photo}
             alt={alt}
-            className="absolute object-cover"
+            className="absolute object-cover object-center"
             style={{
               left: `${hole.left * 100}%`,
               top: `${hole.top * 100}%`,

@@ -39,7 +39,7 @@ export default function Gallery() {
     <section className="mx-auto max-w-4xl px-6 py-20 sm:py-28">
       <SectionHeading eyebrow="Gallery" title="Moments we keep" />
 
-      <div className="columns-2 gap-4 sm:columns-3 [&>*]:mb-4">
+      <div className="grid grid-cols-1 gap-6 sm:grid-cols-3 sm:items-center">
         {config.gallery.map((g, i) => (
           <motion.button
             key={g.src}
