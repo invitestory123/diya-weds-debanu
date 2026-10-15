@@ -21,7 +21,7 @@ export default function Family() {
                   src={f.photo}
                   alt={f.title}
                   loading="lazy"
-                  className="aspect-[3/2] w-full object-cover transition-transform duration-700 ease-out hover:scale-[1.04]"
+                  className="aspect-[4/5] w-full object-cover transition-transform duration-700 ease-out hover:scale-[1.04]"
                 />
               </div>
               <div className="p-6 text-center sm:p-7">
